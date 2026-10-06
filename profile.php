@@ -3,6 +3,17 @@ $pageTitle = 'Profil - Telkom University';
 require 'includes/header.php';
 ?>
 <section class="section">
+<section class="section">
+    <div class="container">
+        <h2>Fokus Pembelajaran</h2>
+
+        <ul>
+            <li>Pembelajaran berbasis teknologi informasi</li>
+            <li>Pengembangan sistem dan aplikasi digital</li>
+            <li>Inovasi teknologi melalui penelitian</li>
+        </ul>
+    </div>
+</section>
     <div class="container article-body">
         <span class="eyebrow">Profil</span>
         <h1>Tentang proyek simulasi Telkom University</h1>
