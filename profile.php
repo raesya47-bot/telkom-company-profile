@@ -5,7 +5,12 @@ require 'includes/header.php';
 <section class="section">
 <section class="section">
     <div class="container">
+<<<<<<< HEAD
         <h2>Fokus Akademik</h2>
+=======
+     <h2>Fokus Pembelajaran Digital</h2>
+
+>>>>>>> conflict-navbar
         <ul>
             <li>Pembelajaran berbasis teknologi informasi</li>
             <li>Pengembangan sistem dan aplikasi digital</li>
