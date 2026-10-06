@@ -5,7 +5,7 @@ require 'includes/header.php';
 <section class="section">
 <section class="section">
     <div class="container">
-        <h2>Fokus Pembelajaran</h2>
+        <h2>Fokus Pembelajaran Digital</h2>
 
         <ul>
             <li>Pembelajaran berbasis teknologi informasi</li>
